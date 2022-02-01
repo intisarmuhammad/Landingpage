@@ -157,13 +157,18 @@ p{
 
 /* Footer */
 #footer{
-  background-color: #A891BF;
+  background-color: #fff;
   text-align: center;
-  padding-bottom: 2%
+  padding: 7% 0;
+}
+.socials{
+  color:#000;
+  margin: 10px;
 }
 .copyright{
-  color: #fff;
+  color: grey;
   font-size: .75rem;
   font-family: "Montserrat-light", sans-serif;
   font-weight: 300;
+  padding-top: 2%;
 }
