@@ -163,10 +163,10 @@ p{
 }
 .socials{
   color:#353B40;
-  margin: 10px;
+  margin: 20px;
 }
-.social:hover{
-  color: #353B40;
+.socials:hover{
+  color: #000;
 }
 .copyright{
   color: grey;
