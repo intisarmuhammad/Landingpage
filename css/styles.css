@@ -162,8 +162,11 @@ p{
   padding: 7% 0;
 }
 .socials{
-  color:#000;
+  color:#353B40;
   margin: 10px;
+}
+.social:hover{
+  color: #353B40;
 }
 .copyright{
   color: grey;
