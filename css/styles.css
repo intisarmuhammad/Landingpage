@@ -37,8 +37,17 @@ p{
 
 #title{
   background-color: #DA70BC;
-  color: #fff;
   text-align: left;
+}
+
+/* Sections */
+
+.colored-section{
+  background-color: #A891BF;
+  color: #fff;
+}
+.white-section{
+  background-color: #fff;
 }
 
 /* Navigation Bar */
@@ -99,10 +108,7 @@ p{
 }
 
 /* Testimonials */
-#testimonials{
-  background-color: #A891BF;
-  color: #fff;
-}
+
 .testimonial-img{
   width: 10%;
   border-radius: 100%;
@@ -119,7 +125,6 @@ p{
 
 /* Press */
 #press{
-  background-color: #A891BF;
   padding-bottom: 3%;
 }
 .press-logo{
@@ -159,8 +164,6 @@ p{
 /* Call to Action */
 #cta{
   padding: 7% 0;
-  background-color: #A891BF;
-  color: #fff;
 }
 .final-download{
   margin: 5% 3% 5% 0;
@@ -168,7 +171,6 @@ p{
 
 /* Footer */
 #footer{
-  background-color: #fff;
   padding: 7% 0;
 }
 .socials{
